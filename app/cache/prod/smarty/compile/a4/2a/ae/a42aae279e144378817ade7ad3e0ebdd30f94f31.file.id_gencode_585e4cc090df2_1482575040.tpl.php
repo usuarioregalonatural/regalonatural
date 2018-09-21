@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-09-20 21:39:07
+<?php /* Smarty version Smarty-3.1.19, created on 2018-09-21 10:34:16
          compiled from "/home/www/regalonatural/prestashop/themes/leo_angel/profiles//id_gencode_585e4cc090df2_1482575040.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:7295885355ba29d09b315b3-68697247%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'a42aae279e144378817ade7ad3e0ebdd30f94f31' => 
     array (
       0 => '/home/www/regalonatural/prestashop/themes/leo_angel/profiles//id_gencode_585e4cc090df2_1482575040.tpl',
-      1 => 1537472347,
+      1 => 1537518856,
       2 => 'file',
     ),
   ),
