@@ -14109,13 +14109,13 @@ small.label, small.value {
   padding-top: 10px; }
 
 .form-control {
-  background: white;
-  color: #000000;
+  background: #ebebeb;
+  color: #acaaa6;
   padding: 8px 16px;
-  border: 1px solid #f2f2f2; }
+  border: 1px solid transparent; }
   .form-control:focus {
     background-color: white;
-    border: 2px solid #0033cc; }
+    border: 1px solid #eaeaea; }
 
 .input-group.focus {
   outline: 1px solid #eaeaea; }
