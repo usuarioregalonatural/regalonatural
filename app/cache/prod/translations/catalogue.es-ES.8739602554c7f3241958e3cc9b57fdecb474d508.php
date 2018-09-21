@@ -74,6 +74,7 @@ $catalogue = new MessageCatalogue('es-ES', array (
   array (
     'Shipping cost' => 'Coste de envío',
     'Order with an obligation to pay' => 'Realizar pago',
+    'Discount' => 'Descuento',
     ' (additional cost of %giftcost% %taxlabel%)' => ' (coste adicional de %giftcost% %taxlabel%)',
     'I would like my order to be gift wrapped %cost%' => 'Quiero mi pedido sea envuelto para regalo %cost%',
     'Shipping Method' => 'Método de envío',
@@ -322,7 +323,7 @@ $catalogue = new MessageCatalogue('es-ES', array (
     'Related Products' => 'Productos relacionados',
     '(There are %s other product in the same category)' => '(Hay %s otro producto en la misma categoría)',
     '(There are %s other products in the same category)' => '(Hay %s otros productos en la misma categoría)',
-    'join our newsletter' => 'únete a nuestro boletín',
+    'join our newsletter' => 'Suscríbete y obtén un 10% dto',
     'All sale products' => 'Todos los productos de venta',
     'Viewed products' => 'productos más vistos',
     'Grid' => 'Cuadrícula',
